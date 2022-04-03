@@ -1,0 +1,8 @@
+D:\C# coding exercise\switch_case\switch_case\bin\Debug\switch_case.exe.config
+D:\C# coding exercise\switch_case\switch_case\bin\Debug\switch_case.exe
+D:\C# coding exercise\switch_case\switch_case\bin\Debug\switch_case.pdb
+D:\C# coding exercise\switch_case\switch_case\obj\Debug\switch_case.csproj.AssemblyReference.cache
+D:\C# coding exercise\switch_case\switch_case\obj\Debug\switch_case.csproj.SuggestedBindingRedirects.cache
+D:\C# coding exercise\switch_case\switch_case\obj\Debug\switch_case.csproj.CoreCompileInputs.cache
+D:\C# coding exercise\switch_case\switch_case\obj\Debug\switch_case.exe
+D:\C# coding exercise\switch_case\switch_case\obj\Debug\switch_case.pdb

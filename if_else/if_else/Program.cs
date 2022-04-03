@@ -12,9 +12,9 @@ namespace if_else
         {
             int firstNumber = 10;
             int lastNumber = 08;
-            //Console.WriteLine("Enter first Number:");
+            //Console.WriteLine("first Number:");
             //firstNumber = Convert.ToInt16(Console.ReadLine());
-            //Console.WriteLine("Enter last number:");
+            //Console.WriteLine("last number:");
             //lastNumber = Convert.ToInt16(Console.ReadLine());
             if (firstNumber > lastNumber)
             {

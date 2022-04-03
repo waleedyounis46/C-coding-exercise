@@ -1,0 +1,8 @@
+D:\Cloud\Datatype\Datatype\bin\Debug\Datatype.exe.config
+D:\Cloud\Datatype\Datatype\bin\Debug\Datatype.exe
+D:\Cloud\Datatype\Datatype\bin\Debug\Datatype.pdb
+D:\Cloud\Datatype\Datatype\obj\Debug\Datatype.csproj.AssemblyReference.cache
+D:\Cloud\Datatype\Datatype\obj\Debug\Datatype.csproj.SuggestedBindingRedirects.cache
+D:\Cloud\Datatype\Datatype\obj\Debug\Datatype.csproj.CoreCompileInputs.cache
+D:\Cloud\Datatype\Datatype\obj\Debug\Datatype.exe
+D:\Cloud\Datatype\Datatype\obj\Debug\Datatype.pdb

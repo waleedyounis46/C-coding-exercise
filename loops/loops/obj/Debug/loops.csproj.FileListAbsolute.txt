@@ -1,0 +1,8 @@
+D:\C# coding exercise\loops\loops\bin\Debug\loops.exe.config
+D:\C# coding exercise\loops\loops\bin\Debug\loops.exe
+D:\C# coding exercise\loops\loops\bin\Debug\loops.pdb
+D:\C# coding exercise\loops\loops\obj\Debug\loops.csproj.AssemblyReference.cache
+D:\C# coding exercise\loops\loops\obj\Debug\loops.csproj.SuggestedBindingRedirects.cache
+D:\C# coding exercise\loops\loops\obj\Debug\loops.csproj.CoreCompileInputs.cache
+D:\C# coding exercise\loops\loops\obj\Debug\loops.exe
+D:\C# coding exercise\loops\loops\obj\Debug\loops.pdb

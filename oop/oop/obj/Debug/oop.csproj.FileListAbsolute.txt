@@ -1,0 +1,8 @@
+D:\C# coding exercise\oop\oop\bin\Debug\oop.exe.config
+D:\C# coding exercise\oop\oop\bin\Debug\oop.exe
+D:\C# coding exercise\oop\oop\bin\Debug\oop.pdb
+D:\C# coding exercise\oop\oop\obj\Debug\oop.csproj.AssemblyReference.cache
+D:\C# coding exercise\oop\oop\obj\Debug\oop.csproj.SuggestedBindingRedirects.cache
+D:\C# coding exercise\oop\oop\obj\Debug\oop.csproj.CoreCompileInputs.cache
+D:\C# coding exercise\oop\oop\obj\Debug\oop.exe
+D:\C# coding exercise\oop\oop\obj\Debug\oop.pdb

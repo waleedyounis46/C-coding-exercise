@@ -1,0 +1,8 @@
+D:\Cloud\inheritance\inheritance\bin\Debug\inheritance.exe.config
+D:\Cloud\inheritance\inheritance\bin\Debug\inheritance.exe
+D:\Cloud\inheritance\inheritance\bin\Debug\inheritance.pdb
+D:\Cloud\inheritance\inheritance\obj\Debug\inheritance.csproj.AssemblyReference.cache
+D:\Cloud\inheritance\inheritance\obj\Debug\inheritance.csproj.SuggestedBindingRedirects.cache
+D:\Cloud\inheritance\inheritance\obj\Debug\inheritance.csproj.CoreCompileInputs.cache
+D:\Cloud\inheritance\inheritance\obj\Debug\inheritance.exe
+D:\Cloud\inheritance\inheritance\obj\Debug\inheritance.pdb
